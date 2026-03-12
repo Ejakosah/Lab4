@@ -67,6 +67,7 @@ Task 7 — Reflection Questions (Conceptual Understanding)
 
 
 Task 8 — Cleanup (Delete the Kubernetes Cluster)
+<img width="951" height="135" alt="image" src="https://github.com/user-attachments/assets/2bf47ba6-3b8e-4c09-81d5-a4892de63ba9" />
 
 
 
