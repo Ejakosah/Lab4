@@ -33,6 +33,8 @@ Task 3 — Create the Release Candidate Image (orders:v2 only)
 
 <img width="1068" height="807" alt="image" src="https://github.com/user-attachments/assets/b2b76ab6-2bef-4a53-b79b-9498908b44c4" />
 
+Task 4 — Rolling Updates (Built-in Kubernetes Deployment Strategy)
+
 <img width="856" height="146" alt="image" src="https://github.com/user-attachments/assets/ae7f97a6-4590-493c-ad0b-1637ae8efa16" />
 
 <img width="1069" height="307" alt="image" src="https://github.com/user-attachments/assets/ff2a857a-f9de-4d92-8fc6-a5dc61883565" />
@@ -43,7 +45,6 @@ Task 3 — Create the Release Candidate Image (orders:v2 only)
 
 
 
-Task 4 — Rolling Updates (Built-in Kubernetes Deployment Strategy)
 
 
 
