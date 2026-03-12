@@ -47,10 +47,7 @@ Task 5 — Canary Release (Controlled Partial Rollout)
 
 <img width="951" height="713" alt="image" src="https://github.com/user-attachments/assets/3d23623d-e34a-400c-b018-23e97c303a6b" />
 
-<img width="1296" height="492" alt="image" src="https://github.com/user-attachments/assets/0da485d5-c4ee-4c90-a598-6756e7f382af" />
-
-
-
+<img width="1296" height="467" alt="Screenshot 2026-03-12 030102" src="https://github.com/user-attachments/assets/e5f65e76-340e-4820-9de6-c7be7e5d9a24" />
 
 
 
