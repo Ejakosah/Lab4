@@ -49,15 +49,15 @@ Task 5 — Canary Release (Controlled Partial Rollout)
 
 <img width="1296" height="467" alt="Screenshot 2026-03-12 030102" src="https://github.com/user-attachments/assets/e5f65e76-340e-4820-9de6-c7be7e5d9a24" />
 
-
-
-
+<img width="944" height="404" alt="image" src="https://github.com/user-attachments/assets/bf1dcfd7-1045-42ec-be02-a641b69576b9" />
 
 Task 6 — Blue-Green Deployment (Instant Cutover via Service Selector)
 
+<img width="953" height="707" alt="Screenshot 2026-03-12 034235" src="https://github.com/user-attachments/assets/ba10560f-170a-4b95-be3c-c41b6c22506a" />
 
+<img width="986" height="656" alt="Screenshot 2026-03-12 034256" src="https://github.com/user-attachments/assets/e7ae6b91-7a3d-43b8-a7e0-86c7acb45e07" />
 
-
+<img width="1420" height="259" alt="Screenshot 2026-03-12 034309" src="https://github.com/user-attachments/assets/992e451c-406d-4c0e-8c85-6dca345de093" />
 
 Task 7 — Reflection Questions (Conceptual Understanding)
 
