@@ -43,15 +43,13 @@ Task 4 — Rolling Updates (Built-in Kubernetes Deployment Strategy)
 
 <img width="1074" height="500" alt="image" src="https://github.com/user-attachments/assets/8c5291f4-07e1-4403-a727-b09da3966fc9" />
 
-
-
-
-
-
-
-
-
 Task 5 — Canary Release (Controlled Partial Rollout)
+
+<img width="951" height="713" alt="image" src="https://github.com/user-attachments/assets/3d23623d-e34a-400c-b018-23e97c303a6b" />
+
+<img width="1296" height="492" alt="image" src="https://github.com/user-attachments/assets/0da485d5-c4ee-4c90-a598-6756e7f382af" />
+
+
 
 
 
